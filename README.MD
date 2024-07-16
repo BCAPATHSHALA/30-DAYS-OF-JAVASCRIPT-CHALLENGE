@@ -3,3 +3,4 @@
 - `DAY 1:` JavaScript Variables and Data Types
 - `DAY 2:` JavaScript Operators
 - `DAY 3:` Control Structures in JavaScript
+- `DAY 4:` Loops in JavaScript
