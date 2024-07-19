@@ -6,3 +6,4 @@
 - `DAY 4:` Loops in JavaScript
 - `DAY 5:` Functions in JavaScript
 - `Day 6:` Arrays in JavaScript
+- `Day 7:` Objects in JavaScript
