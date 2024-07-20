@@ -7,3 +7,4 @@
 - `DAY 5:` Functions in JavaScript
 - `Day 6:` Arrays in JavaScript
 - `Day 7:` Objects in JavaScript
+- `Day 8:` Modern JavaScript Features
