@@ -10,3 +10,4 @@
 - `Day 8:` Modern JavaScript Features
 - `Day 9:` DOM Manipulation in Javascript
 - `Day 10:` Event Handling in Javascript
+- `Day 11:` Promises and Async/Awaitin Javascript
