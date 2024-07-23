@@ -8,3 +8,5 @@
 - `Day 6:` Arrays in JavaScript
 - `Day 7:` Objects in JavaScript
 - `Day 8:` Modern JavaScript Features
+- `Day 9:` DOM Manipulation in Javascript
+- `Day 10:` Event Handling in Javascript
