@@ -11,3 +11,4 @@
 - `Day 9:` DOM Manipulation in Javascript
 - `Day 10:` Event Handling in Javascript
 - `Day 11:` Promises and Async/Awaitin Javascript
+- `Day 12:` Error Handling in JavaScript
