@@ -13,3 +13,4 @@
 - `Day 11:` Promises and Async/Awaitin Javascript
 - `Day 12:` Error Handling in JavaScript
 - `Day 13:` JavaScript Module Activities
+- `Day 14:` Classes in JavaScript
