@@ -8,11 +8,12 @@
 - `Day 6:` Arrays in JavaScript
 - `Day 7:` Objects in JavaScript
 - `Day 8:` Modern JavaScript Features
-- `Day 9:` DOM Manipulation in Javascript
-- `Day 10:` Event Handling in Javascript
-- `Day 11:` Promises and Async/Awaitin Javascript
+- `Day 9:` DOM Manipulation in JavaScript
+- `Day 10:` Event Handling in JavaScript
+- `Day 11:` Promises and Async/Awaitin JavaScript
 - `Day 12:` Error Handling in JavaScript
 - `Day 13:` JavaScript Module Activities
 - `Day 14:` Classes in JavaScript
 - `Day 15:` Closures in JavaScript
 - `Day 16:` Recursion in JavaScript
+- `Day 17:` Data Structures in JavaScript
