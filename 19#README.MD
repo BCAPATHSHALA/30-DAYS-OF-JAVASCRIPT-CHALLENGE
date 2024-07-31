@@ -6,7 +6,7 @@ Welcome to Regular Expression Activities! In these activities, we will delve int
 
 💡 HOWEVER! be careful if you try to use regexs for really complex tasks, such as parsing emails (which get really confusing, really fast), or HTML (which is not a regular language, and so can't be fully parsed by a regular expression)
 
-- [Basic Understanding of Regexs](#)
+- [Basic Understanding of Regexs](https://github.com/BCAPATHSHALA/30-DAYS-OF-JAVASCRIPT-CHALLENGE/blob/main/REGEXINJS.MD)
 - [Regexs Website for Developer](https://regexr.com/)
 - 🙋🏻‍♂️ This is a hard task: Use tools like AI, or any other regex generator for generating Regex but you have a basic understanding of regex.
 
