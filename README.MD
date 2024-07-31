@@ -18,3 +18,4 @@
 - `Day 16:` Recursion in JavaScript
 - `Day 17:` Data Structures in JavaScript
 - `Day 18:` Algorithms in JavaScript
+- `Day 19:` Regular Expressions in JavaScript
