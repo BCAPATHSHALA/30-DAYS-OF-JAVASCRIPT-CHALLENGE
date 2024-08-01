@@ -12,7 +12,7 @@ In these activities, we will explore the fundamentals of LocalStorage and Sessio
 6. [Feature Request](#feature-request)
 7. [Achievements](#achievements)
 
-🙋🏻‍♂️ [Understanding LocalStorage, SessionStorage, and Cookies](#)
+🙋🏻‍♂️ [Understanding LocalStorage, SessionStorage, and Cookies](https://github.com/BCAPATHSHALA/30-DAYS-OF-JAVASCRIPT-CHALLENGE/blob/main/LSC.MD)
 
 ## Activity 1: Understanding LocalStorage
 
