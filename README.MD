@@ -19,3 +19,4 @@
 - `Day 17:` Data Structures in JavaScript
 - `Day 18:` Algorithms in JavaScript
 - `Day 19:` Regular Expressions in JavaScript
+- `Day 20:` LocalStorage and SessionStorage in JavaScript
