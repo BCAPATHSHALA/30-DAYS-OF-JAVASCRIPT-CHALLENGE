@@ -21,3 +21,4 @@
 - `Day 19:` Regular Expressions in JavaScript
 - `Day 20:` LocalStorage and SessionStorage in JavaScript
 - `Day 21:` LeetCode Easy
+- `Day 22:` LeetCode Medium
